@@ -11,3 +11,10 @@ ground work for the stream to work.
 12/16/18
 I am using an API called JavaFx. It doesn't use as many image compression
 files as I thought. I will have to find another or make my own. 
+
+
+1/14/2019
+Tonight I added the opencv api. This api has a .dll file that will 
+allow access to the camera. The camera is working, I'm going ot have to
+implement J2EE to send stream to peer computer. I also have to set up
+the the JFrame design. 
